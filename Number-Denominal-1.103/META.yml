@@ -1,0 +1,22 @@
+---
+abstract: 'break up numbers into arbitrary denominations'
+author:
+  - 'Zoffix Znet <cpan@zoffix.com>'
+build_requires: {}
+configure_requires:
+  ExtUtils::MakeMaker: 6.30
+dynamic_config: 0
+generated_by: 'Dist::Zilla version 5.012, CPAN::Meta::Converter version 2.132830'
+license: perl
+meta-spec:
+  url: http://module-build.sourceforge.net/META-spec-v1.4.html
+  version: 1.4
+name: Number-Denominal
+requires:
+  Carp: 1.26
+  Exporter: 0
+  List::ToHumanString: 1.002
+  perl: 5.006
+resources:
+  repository: https://github.com/zoffixznet/Number-Denominal.git
+version: 1.103
