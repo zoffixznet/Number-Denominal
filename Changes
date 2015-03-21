@@ -1,6 +1,6 @@
 Revision history for Number-Denominal
 
-1.107   2014-01-26
+2.001001   2014-01-26
         - Resolved Issue#1 (Illegal division by zero error)
           https://github.com/zoffixznet/Number-Denominal/issues/1
 
