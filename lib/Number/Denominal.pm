@@ -570,6 +570,10 @@ where the keys are the B<singular> names of the units and values are
 the numerical values of each unit. If a unit's value is zero, its key
 will be absent from the hashref.
 
+=head1 SEE ALSO
+
+L<Lingua::EN::Number::Format::MixWithWords>
+
 =head1 AUTHORS
 
 =over 4
